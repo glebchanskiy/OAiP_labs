@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/glebchanskiy/Desktop/subjects/AOiP/lb_8_consol_struct/main.cpp
+iostream
+-
+string
+-
+vector
+-
+fstream
+-
+

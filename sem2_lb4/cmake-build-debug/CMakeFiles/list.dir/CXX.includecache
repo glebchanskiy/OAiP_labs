@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/glebchanskiy/Desktop/subjects/AOiP/sem2_lb4/main.cpp
+iostream
+-
+string
+-
+vector
+-
+ctime
+-
+

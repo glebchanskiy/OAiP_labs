@@ -1,0 +1,1 @@
+fio:Levko Glrb, birth year:2003, math:7, phys:6, info:8, chem:9, average ball:7.50, group:0,
